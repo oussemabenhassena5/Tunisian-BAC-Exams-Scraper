@@ -1,0 +1,6 @@
+.DS_Store
+.env
+SmartNotes/utils/__pycache__
+utils/__pycache__
+__pycache__
+processing.log
