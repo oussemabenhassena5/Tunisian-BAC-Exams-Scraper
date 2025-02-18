@@ -63,7 +63,7 @@ pip install -r requirements.txt
 - Algorithms (algorithmique)
 - Database (base_de_donnee)
 
-## 🚀 Usage
+## 🌟 Usage
 
 ### To Download All Exams
 ```bash
